@@ -1,0 +1,8 @@
+Conn.cs
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
